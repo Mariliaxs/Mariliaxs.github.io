@@ -1,0 +1,6 @@
+.border-none{
+    border: none !important;
+}
+.img-thumbnail{
+    border-radius: 50%;
+}
